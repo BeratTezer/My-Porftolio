@@ -1,6 +1,6 @@
 {
-    "name": "app001",
-    "short_name": "app001",
+    "name": "new_porf_app",
+    "short_name": "new_porf_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
