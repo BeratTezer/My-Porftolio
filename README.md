@@ -5,4 +5,4 @@ Flutter ile geliştirdiğim Porftolyo sayfası;
 
 Contact with me:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Live page:
 
-[<img alt="Beratezer | Contact" height="80px" src="https://i.hizliresim.com/1azmodt.png" />](https://www.linkedin.com/in/berat-tezer/?trk=people-guest_people_search-card&originalSubdomain=tr")&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[<img alt="Beratezer | Web Page Live" height="80px" src="https://i.hizliresim.com/l4snsps.png" />](https://beratezer.github.io/My-Porftolio/#/)
+[<img alt="BeratTezer | Contact" height="80px" src="https://i.hizliresim.com/1azmodt.png" />](https://www.linkedin.com/in/berat-tezer/?trk=people-guest_people_search-card&originalSubdomain=tr")&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[<img alt="BeratTezer | Web Page Live" height="80px" src="https://i.hizliresim.com/l4snsps.png" />](https://berattezer.github.io/My-Porftolio/#/)
