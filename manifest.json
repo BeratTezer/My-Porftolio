@@ -1,6 +1,6 @@
 {
-    "name": "new_porf_app",
-    "short_name": "new_porf_app",
+    "name": "ex_social_media",
+    "short_name": "ex_social_media",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
